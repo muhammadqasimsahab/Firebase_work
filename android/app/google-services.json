@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964627863212",
+    "project_id": "demy-e5c28",
+    "storage_bucket": "demy-e5c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964627863212:android:04da2e2b67a52a9d5ef109",
+        "android_client_info": {
+          "package_name": "com.example.firbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964627863212-ari5ehfto4k15j2sknctbodt9u7l6560.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsdPmBGQxaHVsYzw_5JLXALF9AVPVZFQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964627863212-ari5ehfto4k15j2sknctbodt9u7l6560.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
